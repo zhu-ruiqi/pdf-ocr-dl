@@ -1,15 +1,20 @@
 import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import numpy as np
 import cv2
 from pdf2image import convert_from_path
 from paddleocr import PaddleOCR, draw_ocr
 from PIL import Image
 
+from scripts.ocr_postprocess import clean_ocr_text
+
 # Path to a Chinese TTF font file (you can change it if needed)
 FONT_PATH = r"C:\Windows\Fonts\simfang.ttf"
 
 # Initialize PaddleOCR (Chinese + English)
 ocr_engine = PaddleOCR(use_angle_cls=True, lang='ch')  # 'ch' includes Chinese and English
+
 
 def visualize_ocr_result(pil_img, result, save_path):
     """
@@ -69,3 +74,7 @@ if __name__ == "__main__":
     pdf_path = "pdf-ocr-dl/data/raw_pdfs/scanned_sample_file_cn.pdf"
     text = ocr_pdf_paddle(pdf_path)
     print(text[:1000])
+
+    cleaned_text = clean_ocr_text(text)
+    print("\n[INFO] Cleaned OCR result (preview):\n")
+    print(cleaned_text[:1000])
