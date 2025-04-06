@@ -1,12 +1,18 @@
 numpy
 PyMuPDF
+Pillow
+opencv-python
+pytesseract
+pdf2image
+
+
 -----------------------------------------------------------------------
 
 pdfplumber
 pandas
 
-opencv-python
-Pillow
+
+
 tesseract-ocr
 paddleocr
 layoutparser

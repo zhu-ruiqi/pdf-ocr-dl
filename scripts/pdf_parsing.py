@@ -104,4 +104,5 @@ if __name__ == "__main__":
 
     print("\n🔍 Keywords:", keywords)
     print("\n📑 Abstract:\n", abstract)
-    # print("\n🧾 First Paragraph:\n", paragraphs[0])
+    print("\n🧾 First Paragraph:\n", paragraphs[0])
+
