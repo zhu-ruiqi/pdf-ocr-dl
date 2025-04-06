@@ -1,0 +1,936 @@
+
+--- Page 1 ---
+文言章句
+Classical Chinese
+A Functional Approach
+Kai Li and James Erwin Dew
+李恺 杜尔文
+THIS IS A SAMPLE COPY FOR
+PREVIEWANDEVALUATION,
+AND IS NOT TO BE
+REPRODUCED OR SOLD.
+This sample includes:
+Table of Contents, Foreword, Lesson 10: 兼词
+ISBN: 978-0-88727-630-9
+AVAILABLEJULY 2008
+Cheng & Tsui Company
+www.cheng-tsui.c0m Tel: 617-988-2400 Fax: 617-426-3669
+--- Page 2 ---
+Copyright ? 2008 by Kai Li and James Erwin Dew
+any means, electronic or mechanical, including photocopying, recording, scanning, or any
+information storage or retrieval system, without written permission from the publisher.
+161514131211100908
+312345678910
+Published by
+ Cheng & Tsui Company, Inc.
+25 West Street
+Boston, MA 02111-1213 USA
+Fax (617) 426-3669
+www.cheng-tsui.com
+"Bringing Asia to the World"TM
+SAMPLE
+Cover Calligraphy: Qi Gong
+Cover Design: Gia Giasullo, Studio eg
+ISBN 978-0-88727-630-9
+Printed in Canada
+--- Page 3 ---
+CONTENTS
+关于《文言章句》
+iii
+Foreword
+V
+Note on Structure and Conventions
+ix
+第一课
+“之”的意义和用法
+Meaning and Functions of 之
+1
+第二课
+“其”的意义和用法
+Meaning and Functions of 其
+9
+第三课
+“者”的意义及用法
+Meaning and Functions of 者
+17
+第四课
+也、乃、是
+也，乃 and是
+27
+第五课
+“以”的意义与用法
+Meaning and Functions of 以
+35
+第六课
+所、所以
+所 and所以
+43
+第七课
+为、以·…为···
+为 and 以...为...
+53
+第八课
+被动句
+The Passive Voice
+61
+第九课
+词序
+Word Order
+69
+第十课
+兼词
+Dual Function Fused Terms
+79
+第十一课
+省略句
+Ellipsis
+89
+第十二课
+使动式和意动式
+Causative and Putative Constructions
+99
+第十三课
+否定词和否定句
+Negatives
+111
+第十四课
+连词
+Conjunctions
+123
+第十五课
+代词
+Pronouns
+131
+第十六课
+疑问词
+Interrogatives
+141
+第十七课
+程度副词
+Adverbs of Degree
+151
+第十八课
+时间副词
+Adverbs Indicating Time
+165
+第十九课
+范围副词
+Adverbs of Scope
+177
+第二十课
+名词用如动词、副词
+Nouns Used as Verbs or Adverbs
+189
+第二十一课
+语气词
+Modal Particles
+199
+第二十二课
+复合虚词
+Compound Function Words
+209
+章句引书目录
+Sources
+219
+练习答案
+Key to Exercises
+221
+词汇索引及总词汇表
+Vocabulary Index and Glossary
+241
+词汇索引首字笔画检字表
+First Characters
+291
+--- Page 4 ---
+关于《文言章句》
+文言文与现代中文（白话文）有较大差别，却是现代中文的源头，与现代中文
+有著密切的源与流的关系。
+文言文是以先秦口语为基础而形成的古代书面语、以及后代仿照先秦作品写成
+的书面语言。魏晋以后，特别是晚唐五代以后，文言文与当时的实际口语已有了相
+当大的差别。文言在中国行时久远，它不反映方言，通行南北。经由历代文人加工
+锤炼，将汉语及中国文字的特点，如声韵、节奏、对仗、意蕴发挥到了极致。优美
+的古诗文，是中华传统文化的瑰宝。
+中国学生从小学一年级就开始接触古文、古诗。中、小学十二年语文教学中，
+文言所占比例超过三分之一。这对学生提高语文理解、表述能力，提高语文欣赏水
+平有很重要的作用。
+中文作为第二语言的教学，学生在学习一两年以后，必须开始接触书面语，文
+言文知识欠缺的问题便渐渐凸显。现代中文的诸多词汇来源于文言。就连初级中文
+中最基本的句型如“所以”、“其实”、“然而”等等都来自文言，而且意义上也
+无区别。更不用说大量的书面语，以及成语、典故、警策之句了。文言与现代中文
+语法的基本结构相同，文言句法在现代中文时有所见。像文言中较为特殊的“使
+“，中中“““，““
+是使人吃惊；“美容”是使容貌美丽。更有不少文章援引古诗古文。典范的现代规
+范美文融合了“文”、“白”各自的优势，体现了古今并存的特点。现代中文，回
+避不了文言，随著教育水平和文化水准的提高，文言对现代中文口语、书面语的影
+响更为明显。
+学习中文的外国学生，在高年级必须学习一些文言文。文言文教学应该成为中
+文教学的组成部分。以使学习者对现代中文的源流有所了解，知其所以然，加深理
+解。学习者在学习文言文的同时，会自然而有效地提高现代中文水平。
+以词汇语义为中心，是适应中文特点语言教学法。现代中文教学如此，文言教
+学更是如此。王力先生指出，“古汉语的问题，主要是词汇问题”，只有理解词义
+才能理解语意。特别是文言中的虚词，人们用“之乎者也”称代文言，足见其在文
+言文中的重要性。这些虚词数量不多而使用频繁，用法灵活，掌握这些虚词是读懂
+文言文的钥匙。这些虚词，几乎保留着其原有的形态进入现代，活跃在现代语言
+中。
+我们曾对美国学生教授文言文，而苦于没有合宜的教材。一般现有教材，多用
+“文选”的方式。但是文言选文，并不能涵盖文言词义的不同用法，不易归纳其规
+律和特点。也不能顾及常用字、常用句型。篇什中还时有冷僻的词语和不多见的句
+言及现代中文的阅读理解能力。
+本教材则不再采用“文选”方式，而用语录体。选取典型文言例句，将虚词、
+固定格式、特殊语法归纳成组，综合说解。此为经线。每个例句有词语的注释，多
+ii
+--- Page 5 ---
+iv
+为实词，此为横向扩展的纬线。我们希望以这些词语构成经纬，使学习者由此而获
+得初步的文言阅读能力。并将古今用法加以比较，以知晓源流。以今释古，以古例
+今，沟通古今。
+和现代中文一样，文言词语也有字频的问题，常用字远比非常用字少。无论虚
+字还是实字，文言文中古代使用频率较高和古今通用的，大约只有一千多字（现代
+中文的甲、乙级常用字有一千六百余字）。相比之下，对于外国学生来说，文言文
+的学习和理解应该不比现代中文难。这和中国学生觉得文言文远比现代中文难学是
+完全不同的。选择例句时，尽量选用常用字构成的语句，避免冷僻的非常用字。文
+言词语灵活多义，只能说明其主要的意义和用法，并未涵盖全部。细致而全面的详
+解既无必要也无意义。
+除了词语的典型性，选择例句还适当注意到历史文化内容及意思的完整。摘弓
+自经史子集等各种文体，使学习者扩展眼界，引起兴趣。一些警策之句则有记忆背
+诵的价值。
+这些章句，已经不是一般意义上的、只为彰显个别字词的单句。除了有例释字
+词的功能，又可代替文选的作用。如引自《国策·触龙说赵太后》中的“.…．‘老
+能。’太后之色少解。”旨在例释文言文中的“程度副词”。句中出现了“殊”、
+“少”、“益”三个程度副词，宜于说解和比较，提高再现率。而且章句段落的意
+义也比较清楚。
+作为练习，另有若干例句，也都摘自古诗文，刊于正文之后。学习者在学习该
+课之后应能自行读懂而无大的障碍。每课后，附有一两篇文选，文字上略有改动，
+并加注释。作为文选阅读练习。
+本书有二十二课。每课二十余段，总计语句有436段。总量超过一般文选式
+的课文。共有词语将近2000，包括了大部分文言常用词语。
+章句及词语有中英文注释，对应的白话文释文。因此，本书既可作为文言文课
+程的教材，也作为自学的教材或文言读物。
+本教材建议用于学过三年以上中文的学习者。每课可用3-4学时。
+北京师范大学中文系教授、国学及书法大师启功先生为本书的编写提出过很好
+的建议，并题写了书名。书未编就而先生已逝，仅以此书作为对先生的纪念。
+编者
+2007，10
+--- Page 6 ---
+FOREWORD
+What Is Classical Chinese?
+Classical Chinese is the language of works written prior to the Qin dynasty (221-206
+BCE) and during the time extending through the Han dynasty (206 BCE - 220 CE), in
+other words, the period roughly from the eighth century BCE to the third century CE.
+ Scholars generally agree that this written language was based on the spoken language of
+pre-Qin times. In general reference, the term classical Chinese also includes the literary
+language of later periods which was written in imitation of the language of pre-Qin works.
+An alternative term, literary Chinese is a more direct translation of the Chinese term
+of just what is meant by “classical." However, for most purposes, the two terms can be
+used interchangeably, referring to the style of language that was used in almost all written
+communication right up until the May Fourth Movement that began in 1919. The Chinese
+contexts. A somewhat similar situation exists in Chinese language usage, in that the terms
+wenyan and wenyanwen are sometimes used more or less interchangeably with guwen,
+technically, “ancient writing.
+ pre-Qin form and indeed developed into many different local dialects. However, scholars
+and poets continued to imitate the forms and styles of the classical written language, and
+thus this classical, or literary language changed very slowly and in only minor ways
+Classical Chinese In Contemporary Education in China
+Beginning in the first grade Chinese children are introduced to classical prose and
+poetry, and through the twelve years of elementary and secondary school such works ac-
+count for more than one-third of their educational curriculum. This is very important in
+improving their ability to understand and express themselves, as well as their overall ap-
+preciation for the language.
+In Chinese Language Programs for Foreign Students
+In a program in Chinese as a second language, after students have studied one or two
+years they must begin to learn written forms of the language, and from that point on, lack
+of knowledge of classical Chinese becomes an increasingly prominent problem. Much of
+the vocabulary of modern Chinese comes directly from the classical language. Even in an
+elementary Chinese course such basic sentence-forming elements as 所以，其实 and 然
+M come from classical Chinese, and indeed still carry the same meaning as in the literary
+language. Even more striking are the large amounts of modern written Chinese vocabu-
+lary, along with idioms, allusions, maxims and other figures of speech, that derive direct-
+ly from the classical language. Basic grammatical patterns of modern and classical Chi-
+nese are also very similar, with classical constructions often appearing in the modern lan-
+guage. Such special grammatical features from classical Chinese as causative and puta-
+tive verbs, with nouns and adjectives used as verbs, also occasionally appear in the mod-
+ern language. Thus 惊人 means “to cause someone to feel startled,” and 美容 means “to
+V
+--- Page 7 ---
+Vi
+passages from classical poetry and prose. Exemplary contemporary writing merges the
+outstanding features of literary and vernacular language and exhibits the excellence of the
+two styles in combination. Modern Chinese cannot be detached from the classical lan-
+guage. As the educational and cultural levels among the Chinese rise, the influence of
+classical Chinese on the modern spoken and written language becomes ever more appar-
+ent.
+Thus the teaching of classical Chinese should be an integral component of a Chinese
+language program for foreign students so that the students will understand the develop-
+ment of the language and have a deeper appreciation for it. As they study the classical
+language their level of competence in the modern language will naturally and concurrent-
+ly improve.
+The Importance of Vocabulary, Especially Function Words
+ Pedagogy that focuses on vocabulary and meaning takes advantage of the special
+characteristics of the Chinese language. This is true in the teaching of modern Chinese
+and even more important in classical Chinese instruction. The renowned linguist Wang Li
+王力 said, “The problems of classical Chinese are primarily problems of vocabulary."
+One can understand a passage only if one understands the vocabulary of that passage.
+This is especially true of the function words of classical Chinese. The frequent use of the
+phrase “之乎平者也” (simply a recitation of four of the most prominent of these function
+words) to refer to the classical language reflects the importance of this category of terms
+to the language. These function words are relatively few in number but occur with great
+frequency and are used very flexibly, and control of them is thus the key to understanding
+classical Chinese. Most of these terms survive today with very little change in their form
+and are very much alive in the modern language.
+Those of us who teach classical Chinese to American students have often com-
+plained about the scarcity of appropriate teaching materials. Most existing textbooks fol-
+low the principle of “selected readings." However, a selection of classical Chinese read-
+ings cannot easily encompass the variety of uses of important vocabulary items and pro-
+vide a clear focus on their most pertinent characteristics. Nor can such a selection deal
+adequately with high frequency vocabulary and sentence patterns. The selections are also
+likely to include rare or obscure terms and seldom seen sentence patterns. Students might
+remember the stories but fail to remember the important words and phrases and thus be
+unable to make appropriate deductions when reading other materials so as to continually
+improve their ability to read and understand modern Chinese.
+Therefore we have set aside the “selected readings” format in favor of what might be
+called an “excerpts style."We select typical example sentences and somewhat longer ex-
+cerpts, gathering function words, fixed phrases and special syntactic forms into groups
+for explanation. This becomes the warp that holds the fabric together, while individual
+sentences with glosses on their vocabularymostly content words—serve as the woof
+that completes the tapestry. Our hope is that this interwoven fabric will provide students
+with a basic ability to read classical Chinese. In addition, the comparisons of classical and
+   s   ss  os  n
+--- Page 8 ---
+vii
+forms from ancient to modern. Using the contemporary language to explain the classical
+language, while the classical is reflected in the modern, should provide a connection be-
+tween the classical and the contemporary forms of the language.
+TheImportance of Focus on High FrequencyVocabulary
+In classical just as in modern Chinese, frequency of occurrence of vocabulary items
+is an important aspect of language study. High frequency words are much fewer in num-
+ber than low frequency words. With function words and content words taken together,
+there are probably not much more than a thousand characters that occur with high fre-
+quency in classical Chinese and still carry their original meaning in modern Chinese.
+（The《汉语水平词汇与汉字等级大纲》's A and B lists of high frequency characters in
+ modern Chinese total just over 1,600.) Thus in relative terms the study of classical Chi-
+nese should not be more difficult for foreign students than modern Chinese. This contra-
+dicts the feling of Chinese students that the classical language is much more difficult
+than the modern language. In selecting example sentences we have tried to choose sen-
+tences constructed from high frequency vocabulary and avoid rare or obscure low fre-
+quency characters. Given the flexibility and polysemy of much classical vocabulary, we
+have not tried to give complete explanations of all possible meanings of a term but have
+only explained each vocabulary item's principal meaning and usage. Complete and de-
+tailed explanations are unnecessary and not really meaningful in the context of this ma-
+terial.
+Careful Selection of ExampleSentences and Excerpts
+ In selecting example sentences, in addition to focusing on typical vocabulary, we
+have tried to choose examples that have historical and cultural value and that express a
+complete thought. These examples have been taken from the traditional categories of
+Chinese writings—the classics, history, the philosophers and literary writings—in order
+to open new vistas for students and arouse their interest. (See “Sources" on pp. 219-220
+for a list of our sources with the number of examples from each work or author.) Some of
+the especially pithy sentences are well worth memorizing.
+Our selections are more than ordinary excerpts selected to display given vocabulary
+and sentence patterns. Aside from serving as examples of vocabulary usage, they also
+take the place of “selected readings." For example, the brief dialogue from the Intrigues
+of the Warring States that stands as item no. 14 in Lesson 17 is introduced to exemplify
+classical Chinese adverbs of degree, and within this one short passage the three adverbs
+of degree 殊'very', 少 'slightly' and 益 'increasingly' all appear, enhancing explanation
+and comparison and improving the chances of recognition of these terms when they reap-
+pear in other writings. Furthermore, the segmentation and flow of meaning in the piece is
+quite clear.
+To help students apply what they have learned in the main section of each lesson, we
+have included, in the Exercises sections, a number of additional practice sentences drawn
+from classical works of poetry and prose. And the final section of each lesson consists of
+one or two selected readings that have in some cases been slightly revised from the origi-
+nal and annotated. We hope that students can read and understand these practice sen-
+tences and selections are provided in the Key to Exercises at the back of the book; how-
+--- Page 9 ---
+viii
+ever, students should not look at the “Key" until after they have written out their own
+translations.
+The twenty-two lessons of the book include a total of 436 example sentences and
+longer excerpts. Glossed vocabulary totals approximately 2000 terms, most of which are
+high frequency classical words.
+Example sentences are accompanied by Chinese and English glosses, and key voca-
+bulary and grammatical functions introduced in each lesson are explained in both Chinese
+and English. Therefore, this book is not only appropriate for classroom instruction but
+can also be used for self instruction or as independent reading material in classical Chi-
+nese. (See the following note for additional information on lesson structure and conven-
+tions.)
+Recommended Prerequisite Study and Classroom Use
+This textbook is recommended for use with students who have had at least three
+years of Chinese language instruction, but it can also be used by students with a strong
+foundation acquired through two years of prior study in a rigorous program. Each lesson
+can be completed in three to four hours of instruction.
+Authorship
+The work of preparing this textbook was divided as follows: Kai Li is responsible for
+conception of the book, selection and arrangement of the example excerpts, writing the
+Chinese definitions and grammatical notes in each lesson, initial preparation of lesson
+glossaries, and writing the modern Chinese translations of the classical excerpts. James
+Dew wrote the English translations of definitions and grammatical notes, did a fair
+amount of editing of the lesson glossaries-especially as regards the English glosses-
+did the final editing and formatting of the book, and prepared the vocabulary index. We
+express our gratitude to Vivian Ling for corrections and useful suggestions and for her
+expertise in the initial formatting of the lessons.
+Dedication
+This book is dedicated to the late Professor 启功 Qi Gong of Beijing Normal Uni-
+versity's Chinese Department. Professor Qi, who was a renowned sinologist and calli-
+grapher, offered excellent suggestions regarding the writing of this textbook, and the title
+that appears on the cover and title page of the book is in his hand.
+The Authors
+October2007
+--- Page 10 ---
+LESSON STRUCTURE AND CONVENTIONS
+1. Lesson Structure
+Each lesson begins with an introduction of key vocabulary items and grammatical
+functions, explained in Chinese and English. This is followed by illustrative example sen-
+tences excerpted from classical—and a very few modern—sources. Each excerpt is fol-
+lowed by a brief glossary of vocabulary items that a student might not know from pre-
+vious study of three years of modern Chinese, with the key term or terms for the lesson
+highlighted with the → symbol. Following this small glossary, each sentence is translated
+into modern Chinese.
+It should be noted that in many cases these translations are written in a rather formal
+style of modern Chinese, to some extent retaining the word order and diction of the clas-
+sical excerpts rather than being phrased in the most colloquial variety of modern Chinese
+We hope that this style of translation will help the student see the relationship between
+the classical and modern forms of the language.
+A second section, designated 练习, or Exercises, provides additional example sen-
+tences illustrating the key vocabulary and grammatical structures of the lesson. These
+authors hope that on the basis of what students have learned from the first part of the les-
+son, they can understand, explain and translate these examples without immediate refer-
+ence to translations. However, translations are included in the Key to Exercises at the end
+of the book so that students can check their understanding after writing out their own
+translations.
+A final 阅读, or Readings, subsection of the Exercises is designed to function in a
+way similar to the preceding excerpts, though it consists of one or two somewhat longer
+pieces of connected text and thus is seen as providing more interesting reading than what
+has preceded. The text for each Reading selection actually appears twice, first as a com-
+plete, uninterrupted text, then broken into one or two-sentence segments for glossing.
+These reading selections are also translated in the Key at the end of the book.
+The original source is given for all excerpts and reading selections. Occasionally,
+slight revisions have been made in the reading selections in order to avoid abstruse termi-
+nology that might distract students from the focus of the lesson material.
+2. Glossing Conventions
+ In the lesson glossaries, words—and a few longer locutions—-are given first in Chi-
+nese characters, followed by pinyin romanization, a modern Chinese gloss and an English
+gloss. Romanization is given even for relatively basic terms in order to facilitate conve-
+nient use of the alphabetical vocabulary index. Students should take note of the pronun-
+ciation of even seemingly familiar terms, as there are a few terms whose pronunciation in
+classical Chinese differs from modern Chinese, and some terms have varying readings for
+different meanings. In most cases the Chinese and English glosses are synonymous or
+supplementary to one another. However, the omission of a Chinese gloss usually means
+that the glossed term is also used in modern Chinese and a "translation" from classical to
+ix
+--- Page 11 ---
+modern Chinese is therefore unnecessary. English glosses are often omitted when the
+dent does not need a corresponding English gloss.
+Generally a term is glossed only on its first occurrence. However, when a term that
+has been glossed appears in a new meaning, it is given a new gloss. And in a very few
+cases a gloss is repeated, as a reminder to the student, even though it is not new. For ex-
+ample, 去, followed by a place name and meaning leave, go away from' is glossed twice
+because this usage is quite the opposite of its usual modern Chinese meaning, 'go to'. This
+procedure of providing a gloss only for the first occurrence of a term is likely to result in
+students occasionally encountering a term whose meaning they have forgotten since an
+earlier encounter. In such a case, a quick look at the vocabulary index will take them to
+the earlier lesson where the term was glossed.
+As noted in the Foreword, we have not attempted to give complete explanations of
+all possible meanings of any given term but have tried to provide simple glosses appro-
+priate to the given context. Perusal of dictionaries for additional information is always
+recommended.
+SAMPLE
+--- Page 12 ---
+第十课：兼词
+兼词，又称兼性词，即一个词同时兼有两种词性。兼词一般是合音字，
+是经常连用的两个词，快读而形成的。这类兼词在文言中并不多，主要
+有诸、、焉、耳、尔、巨等。
+现代汉语中也有这类词，如“俩”（两个）、“仁”（三个）、“甬”
+（不用）等。
+There are a few terms in classical Chinese that are contractions, or phonetic fusions,
+of two words. These terms, known in Chinese as 兼词 jianci, or "dual function
+words," derive from two words which frequently spoken together in rapid speech
+have coalesced into one word. These fusions continue to carry the grammatical
+functions of both of the original words that coalesced to form them. There are a li-
+mited number of such terms in classical Chinese, such as 诸, (hé),焉,耳,尔 and
+回 (po).
+Colloquial modern Mandarin also contains a few such fused words, for example, 俩
+lia, 仁 sa and  béng (from 两个,三个 and 不用 respectively).
+一、“诸”是合音词。
+诸(zhu)，是“之乎”、“之于”的合音词，兼有这两个词的词性。
+诸 is a fusion of 之乎 or 之于, and it combines the functions of the parts of speech of
+its two component words.
+甲、“之乎”：“之”是代词，“乎”是语气词。一般用在句末。
+之乎: 之 is a pronoun and 乎 is a sentence-final particle. It usually appears
+at the end of a sentence:
+1）一言而可以兴邦，有诸?
+《论语·子路》
+1.兴
+xing
+兴盛、兴旺 prosperous,flourishing; cause to
+flourish
+■诸：之乎。“之”代“这样的事”。
+句话便可以使国家兴盛，有这样的事吗？
+2）信如君不君，臣不臣，父不父，子不子，虽有粟，吾得而食诸？
+《论语·颜渊》
+79
+--- Page 13 ---
+80
+文言章句
+2.信
+xin
+真的true
+3.粟
+su
+粮食，这里指粮饷(liangxiang)、俸禄(fenglu)an
+official's salary
+■诸：之乎。“之”代“粟”。
+要是真的君主不尽(jin)君道，臣不尽臣道，父不尽父道，子不尽子道，虽
+然有粮饷俸禄，我能够享用它吗？
+乙、“之于”：“之”是代词，“于”是介词。
+之于: 之 is a pronoun and 于 is a preposition:
+3）我不欲人之加诸我也，吾亦欲无加诸人。
+《论语·公冶长》
+诸：之于
+我不愿别人加在我身上的事，我也希望不要加在别人身上。
+4）今之所以知古，后之所以知今，不可口传，必凭诸史。
+唐·韩愈《进顺宗皇帝实录表状》
+4.传
+chuan
+流传 transmit, pass on
+5.凭
+ping
+凭借rely on,depend on
+诸：之于
+现在之所以了解古代，后世之所以了解现在，不可以靠口传，一定要凭借
+史书。
+另：“诸”除了这种用法，还作“各位”、“众多”、“所以”。
+In addition to these uses of 诸, it also has the following meanings: each one,
+all (of persons), you all (in addressing a group); many; therefore.
+5）诸大夫皆曰贤，未可也；国人皆曰贤，然后察之，见贤焉，然后
+用之。
+《孟子·梁惠王下》
+6.大夫
+nyep
+官员 an official in ancient China
+7.贤
+xian
+有道德、有能力able andvirtuous
+■诸：所有的
+--- Page 14 ---
+第十课：兼词
+81
+所有的官员都说(他)有才有德，还不行；全国的人都说(他)有才有德，然后
+考查他，发现才德，然后任用他。
+二、“”是“何不”的合音词。
+(hé)，是“何不”的合音词，意义为“为什么不”
+益 is a contraction of 何不. It means "why not?"
+6）子曰：“各言尔志？”
+《论语·公冶长》
+8.尔
+你，你们 you
+益：何不、为什么不
+孔子说：“为什么不各自说说你们的志向？
+7）今国病矣，君以名器请采于齐？
+《国语·鲁语上》
+9.病
+bing
+这里指灾害calamity;disaster
+10.矣
+yi
+语气词，相当于现代汉语“了”already; similar
+to modern Chinese J
+11.名器
+mingqi
+指钟鼎(-ding)等名贵的器物 bronze vessels,
+artifacts
+12.乘
+IP
+买（专指粮食）purchase food grains
+盐：何不
+现在国家有了灾害，您何不用钟鼎等名贵的器物向齐国买粮食？
+8）我有情而来，彼不以情见待，去诸？
+清·吴骞《扶风传信录》
+13.情
+qing
+感情 feeling; sentiment;warmth
+14.彼
+bi
+他，对方 he; the other person
+15.见待
+ jian dai
+看待、对待 treat;entertain
+蛊：何不
+诸：之乎
+我有情而来，对方不以友情对待，为什么不离开那里呢？
+--- Page 15 ---
+82
+文言章句
+三、焉
+焉(yan)相当于“于之”、“于此”。常用于句末，兼有语气词的作用。
+焉 (yan) is equivalent to 于之 or 于此 and usually appears in sentence-final position.
+It includes the grammatical function of a sentence final particle.
+9）发鸠之山，山上多柘木，有鸟焉。
+《山海经》
+16.发鸠
+Fajiu
+山名
+17.柘
+zhe
+柘树 three-bristle cudrania; silkworm thorn tree
+焉：于之，在那里
+发鸠这座山，山上有很多柘树，有鸟在那里。
+10）三人行，必有我师焉。择其善者而从之，其不善者则改之。
+《论语·述而》
+18.择
+zé
+选择
+焉：于之，在里面
+三个人行走，(其中)一定有我的老师在里面。选择那些好的地方来学习，
+那些不好的（自己）就改正过来。
+11）曰：“既富矣，又何加焉？”曰：“教之。”《论语·子路》
+19.既
+ji
+既然、已经 already
+20.加
+jia
+增加，进一步
+21.教
+jiao
+教育，教化 teach,enlighten by education
+焉：于此，在这里
+(孔子的学生冉有)说：“（人民)已经富有了，又在富有之上增加什
+么？”（孔子)说：“教化他们。”
+四、耳
+耳，是“而已”的合音词。
+耳 is a contraction of 而 已 (éryi: and no more; that's all).
+12）从此道至吾军，不过二十里耳。
+《史纪·项羽本纪》
+22.道
+dao
+路
+--- Page 16 ---
+第十课：兼词
+83
+23.吾军
+wu jun
+我们的军营
+耳：而已
+从这条路到我们军营，不过二十里而已。
+13）虎因喜，计之日：
+“技止此耳。”
+唐·柳宗元《黔之驴》
+24.因
+yin
+因此 because of this, therefore
+25.计
+ji
+考虑、合计 think over,consider
+26.技
+ji
+技能、本事 ability
+27.止
+zhi
+同只only
+耳：而已
+(驴 (lü)踢 (ti)老虎)，老虎因而很高兴，合计说：“(它的)本事只不过是
+这样而已
+14）我亦无他，
+惟手熟耳
+宋·欧阳修《卖油翁》
+28.他
+ta
+别的，其他的 other
+29.惟
+wéi
+只是only
+30.熟
+shu
+熟练 skill; proficient
+耳：而已
+我也没有什么别的(本事)，只是手熟而已。
+五、尔
+尔(er)相当于“如此”、“像这样”。
+尔 is equivalent to 如此, "this way, thus," as in the following examples:
+15）同是被逼迫，君尔妾亦然。
+古诗《孔雀东南飞》
+31.逼迫
+bipo
+force, compel
+32.妾
+qie
+妻子自称 I(your humble wife)
+尔：如此、这样
+同样是被逼迫，你这样，我也是这样。
+16）结庐在人境，而无车马喧。问君何能尔，心远地自偏。
+--- Page 17 ---
+84
+文言章句
+晋·陶渊明《饮酒》
+33.结庐
+jie lu
+盖茅(mao）庐（茅草房子）build a thatched
+cottage
+34.人境
+rénjing
+有人的地方place of human habitation
+35.喧
+xuan
+喧闹noise;noisy
+36.心远
+ xin yuan
+心境远离世间in one's heart far from worldly
+cares
+37.偏
+ pian
+偏远 remote;faraway
+尔：如此、这样
+盖一个草庐在人世间，而没有车马的喧闹。问你怎么能这样呢？心境远离
+人世，地方自然就偏远。
+“回”是“不可”的合音词。
+六、
+回(po)是“不可”的合音词。字形为“可”的反置
+ derives from 不可. The character resembles 可 reversed.
+17）布目备曰：“大耳儿最回信。”
+《后汉书·吕布传》
+38.布
+Bu
+吕布，东汉末董卓(Dong Zhuó)部将
+39.目
+nu
+用眼睛看
+40.备
+Bei
+刘备，三国时蜀汉建立者
+41．大耳儿
+Da'ér Er
+刘备耳朵大，吕布这样称他。
+"Big-ear Fellow,"
+Li Bu's nickname for Liu Bei
+回：不可
+吕布看着刘备说：“大耳儿最不可相信。’
+18）(马岱谏曰)：“曹操心怀回测，叔父若往，恐遭其害。”
+《三国演义·五十七回》
+42.马岱
+Ma Dai
+东汉末刘备部将
+43.曹操
+Cao Cao
+东汉末政治家、军事家、文学家
+44.回测
+poce
+不可预测unfathomable;unpredictable
+回：不可
+(马岱劝止说)，“曹操怀著不可测的心思，叔父如果去，恐怕会遭他杀害。”
+--- Page 18 ---
+第十课：兼词
+85
+19）回耐灵鹊多漫语，报喜何曾有凭据？几度飞来活捉取，锁向金
+笼休共语。
+唐·无名氏《鹊踏枝》
+45.回耐
+ ponai
+不可忍耐 unendurable
+46.灵雀
+lingque
+喜鹊（-que）magpie
+47.漫语
+空话 empty talk
+manyu
+48.报喜
+baoxi
+报告喜讯 announce good news;report success
+49.何曾
+hécéng
+何尝、哪里 when(in the past);how
+50.凭据
+pingju
+evidence
+lock up, lock away
+51.锁
+suo
+52.笼
+long
+a cage
+53.共语
+gongyu
+一起说话
+回：不可
+不可忍受的喜鹊有那么多空话，报喜哪里有什么凭据？几次飞来捉住你
+锁在金笼里别再说话。
+练习
+一、将下面的句子译成现代汉语：
+1）子日：“君子求诸己，小人求诸人。
+《论语·卫灵公》
+2）皆所亲历，非托诸空言也。
+鲁迅《戛剑生杂记》
+54.皆
+jie
+都 all; each and every one
+55.亲
+qin
+亲自 oneself, personally
+56.历
+1i
+经历 to experience
+57.托
+tuo
+借助 depend on
+3）王日：
+：“…以羊易之。”有诸？
+《孟子·梁惠王上》
+4）圣人与众同欲，是以济事。子益从众?
+《左传·成公六年》
+58.众
+zhong
+民众，老百姓 the common people
+59.济事
+ jishi
+成功
+60.从
+cong
+跟从、服从 follow;obey
+5）富者不能至而贫者至焉。
+清·彭端淑《为学》
+61.至
+zhi
+到达 achieve
+--- Page 19 ---
+86
+文言章句
+6）口耳之间，则四寸耳。
+《荀子·劝学》
+62.寸
+cun
+inch
+7）何其相似乃尔
+成语
+63.何其
+héqi
+多么
+64.乃尔
+这样，竟然这样
+8）贵土风俗，何以乃尔乎？
+《三国志·蜀书·张裔传》
+65.贵土
+mina
+你们这里 your honorable locality
+66.风俗
+fengsu
+custom
+9）虽回复见远流，其详可得略说也。
+《说文解字·序》
+67.复
+y
+再次 again
+68.远流
+yuanliu
+最早的源流original source
+69.详
+xiang
+详细 details; detailed
+70.略
+lve
+大略generally, roughly
+10）其居心回测，反复靡常。
+清·林则徐《使粤奏稿》
+71.居心
+uxn!
+harbor（evil)intentions（注：“居心巨测”是成
+语。)
+72.反复靡常
+u
+即“反复无常”fickle; capricious
+michang
+73.靡
+mi
+无not
+11）光说没有用，最重要的是付诸实践、见诸行动。
+74.实践
+shijian
+practice, actual practice
+二、阅读
+《卖油翁》
+陈康肃公善射，当世无双，公亦以此自矜。尝射于家圃，有卖油翁释
+担而立，睨之，久而不去。见其发矢十中八九，但微颔之。康肃问曰：
+“汝亦知射乎？吾射不亦精乎？”翁曰：“无他，但手熟尔。”康肃
+置于地，以钱覆其口，徐以酌油沥之，自钱孔入，而钱不湿。因曰:
+“我亦无他，惟手熟尔。”康肃笑而遣之。
+宋·欧阳修
+--- Page 20 ---
+第十课：兼词
+87
+1）陈康肃公善射，当世无双，公亦以此自矜。
+75.陈康肃公
+：Chén Kangsu Gong宋代人，陈尧咨
+76.善射
+shanshe
+善于射箭 good at archery
+77.无双
+wushuang
+没有第二个unrivaled,peerless
+78.矜
+jin
+骄傲、自得proud;self-important
+2）尝射于家圃，有卖油翁释担而立，之，久而不去。
+79.圃
+nd
+菜圃、花圃等 garden
+80.释
+shi
+放下 (担子)
+81.睨
+ni
+斜着眼睛看look askance at
+3）见其发矢十中八九，但微颔之。
+82.矢
+shi
+箭arrow
+83.颔
+han
+点头nod
+4）康肃问曰:
+“汝亦知射乎？
+吾射不亦精乎？
+84.汝
+你
+n1
+85.精
+ jing
+精彩、精通 excellent;expert
+5）翁日：
+“无他，但手熟尔。”康肃忿然曰：“尔安敢轻吾射！”
+86.但
+dan
+只是
+87.忿然
+fenran
+ angrily
+88.轻
+轻视
+qing
+6）翁曰：“以我酌油知之。
+7）乃取一葫芦置于地，以钱覆其口，徐以酌油沥之，自钱孔入，而钱不湿。
+89.葫芦
+hulu
+gourd
+90.钱
+qian
+a coin (round, with a small square hole in the mid-
+(p
+91.覆
+fu
+覆盖cover
+92.徐
+xu
+慢慢地
+93.
+勺ladle
+shao
+94.沥
+li
+drip; trickle
+8）因日：
+：“我亦无他，惟手熟尔。”
+9）康肃笑而遣之。
+--- Page 21 ---
+88
+文言章句
+95.遣
+qian
+打发（让他走）send on his way
+SAMPLE

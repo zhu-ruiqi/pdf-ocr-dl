@@ -2,9 +2,11 @@ numpy
 PyMuPDF
 Pillow
 opencv-python
-pytesseract
+pytesseract (need  Tesseract OCR https://github.com/tesseract-ocr/tesseract)
 pdf2image
-
+paddlepaddle
+paddleocr
+matplotlib
 
 -----------------------------------------------------------------------
 
@@ -14,7 +16,7 @@ pandas
 
 
 tesseract-ocr
-paddleocr
+
 layoutparser
 detectron2
 camelot-py
