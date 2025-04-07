@@ -1,8 +1,9 @@
+--------------------------pdf-ocr-dl----------------------------------
 numpy
 PyMuPDF
 Pillow
 opencv-python
-pytesseract (need  Tesseract OCR https://github.com/tesseract-ocr/tesseract)
+pytesseract (need Tesseract OCR https://github.com/tesseract-ocr/tesseract)
 pdf2image
 paddlepaddle
 paddleocr
@@ -10,6 +11,12 @@ matplotlib
 jupyterlab
 layoutparser
 camelot-py[cv]
+yolov5 (and requirements)
+
+
+-----------------------------labelimg-env---------------------------
+labelImg
+
 
 -----------------------------------------------------------------------
 
