@@ -177,3 +177,5 @@ cython_debug/
 /data/outputs/
 /yolov5/
 /data/outputs/
+*.spacy
+ner_spacy/model/

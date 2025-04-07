@@ -1,0 +1,5 @@
+{"text": "Apple released the new iPhone in September 2023.", "labels": [[0, 5, "ORG"], [39, 52, "DATE"]]}
+{"text": "The United Nations held a climate summit in Geneva.", "labels": [[4, 19, "ORG"], [44, 50, "GPE"]]}
+{"text": "Mark Zuckerberg is the CEO of Meta.", "labels": [[0, 15, "PERSON"], [29, 33, "ORG"]]}
+{"text": "The funding amount was $500 million provided by SoftBank.", "labels": [[24, 37, "MONEY"], [52, 60, "ORG"]]}
+{"text": "IBM's AI conference will be on July 1st, 2025.", "labels": [[0, 3, "ORG"], [34, 49, "DATE"]]}

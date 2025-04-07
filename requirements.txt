@@ -13,13 +13,16 @@ layoutparser
 camelot-py[cv]
 yolov5 (and requirements)
 
-
 -----------------------------labelimg-env---------------------------
 labelImg
 
+-----------------------------doccano-env---------------------------
+doccano (cmd doccano webserver to run it & pip install numpy==1.24.4 pandas==1.5.3)
+
+
+
 
 -----------------------------------------------------------------------
-
 pdfplumber
 pandas
 

@@ -1,0 +1,5 @@
+{"text": "OpenAI was founded in 2015 and is headquartered in San Francisco.", "labels": [[0, 6, "ORG"], [27, 31, "DATE"], [55, 68, "GPE"]]}
+{"text": "Elon Musk invested $1 billion in OpenAI.", "labels": [[0, 9, "PERSON"], [19, 29, "MONEY"], [33, 39, "ORG"]]}
+{"text": "The conference will be held on June 21, 2025 in Tokyo.", "labels": [[34, 48, "DATE"], [52, 57, "GPE"]]}
+{"text": "Google acquired DeepMind in 2014.", "labels": [[0, 6, "ORG"], [16, 24, "ORG"], [28, 32, "DATE"]]}
+{"text": "The CEO of Microsoft is Satya Nadella.", "labels": [[12, 21, "ORG"], [25, 38, "PERSON"]]}
