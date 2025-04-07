@@ -173,9 +173,16 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# ---------------------------------
+
 # Output folders
 /data/outputs/
+
 /yolov5/
 /data/outputs/
 *.spacy
+ner_spacy/model/
+
+# Ignore model checkpoints
+ner_bert/model/
 ner_spacy/model/

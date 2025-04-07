@@ -1,0 +1,15 @@
+[
+    {
+      "tokens": ["Elon", "Musk", "founded", "SpaceX", "in", "2002", "."],
+      "ner_tags": ["B-PER", "I-PER", "O", "B-ORG", "O", "B-DATE", "O"]
+    },
+    {
+      "tokens": ["Apple", "was", "founded", "by", "Steve", "Jobs", "."],
+      "ner_tags": ["B-ORG", "O", "O", "O", "B-PER", "I-PER", "O"]
+    },
+    {
+      "tokens": ["Google", "was", "founded", "in", "1998", "."],
+      "ner_tags": ["B-ORG", "O", "O", "O", "B-DATE", "O"]
+    }
+  ]
+  
