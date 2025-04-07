@@ -41,7 +41,8 @@ def ocr_pdf_paddle(pdf_path, save_txt=True, visualize=True):
     print(f"[INFO] Total pages: {len(images)}")
 
     all_text = ""
-    output_dir = os.path.join(os.path.dirname(pdf_path), "ocr_outputs")
+    # output_dir = os.path.join(os.path.dirname(pdf_path), "ocr_outputs")
+    output_dir = os.path.join("pdf-ocr-dl", "data", "outputs", "ocr")
     os.makedirs(output_dir, exist_ok=True)
 
     for i, img in enumerate(images):
@@ -62,7 +63,9 @@ def ocr_pdf_paddle(pdf_path, save_txt=True, visualize=True):
         os.remove(img_path)
 
     if save_txt:
-        txt_path = pdf_path.replace(".pdf", "_paddleocr_result.txt")
+        # txt_path = pdf_path.replace(".pdf", "_paddleocr_result.txt")
+        filename = os.path.basename(pdf_path).replace(".pdf", "_paddleocr_result.txt")
+        txt_path = os.path.join(output_dir, filename)
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(all_text)
         print(f"[SUCCESS] OCR result saved to: {txt_path}")

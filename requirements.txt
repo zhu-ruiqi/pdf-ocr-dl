@@ -7,6 +7,9 @@ pdf2image
 paddlepaddle
 paddleocr
 matplotlib
+jupyterlab
+layoutparser
+camelot-py[cv]
 
 -----------------------------------------------------------------------
 
@@ -17,7 +20,7 @@ pandas
 
 tesseract-ocr
 
-layoutparser
+
 detectron2
 camelot-py
 torch
@@ -28,4 +31,4 @@ fastapi
 uvicorn
 streamlit
 gradio
-jupyterlab
+

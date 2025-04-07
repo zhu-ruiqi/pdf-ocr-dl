@@ -1,9 +1,6 @@
 import re
 import jieba
 
-import re
-import jieba
-
 def clean_ocr_text(raw_text, language="ch"):
     """
     Clean and enhance OCR raw text output.
