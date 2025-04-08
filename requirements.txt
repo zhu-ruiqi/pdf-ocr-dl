@@ -12,6 +12,8 @@ jupyterlab
 layoutparser
 camelot-py[cv]
 yolov5 (and requirements)
+fastapi[all]
+
 
 -----------------------------labelimg-env---------------------------
 labelImg
