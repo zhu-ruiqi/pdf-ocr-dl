@@ -1,5 +1,6 @@
 import fitz  # PyMuPDF
 
+# 提取整个PDF文档的纯文本内容，并在每页之间添加页码标识。
 def extract_text_from_pdf(pdf_path):
     doc = fitz.open(pdf_path)
     full_text = ""
@@ -9,6 +10,7 @@ def extract_text_from_pdf(pdf_path):
     doc.close()
     return full_text
 
+# 提取主标题
 def extract_titles(pdf_path):
     # tmp=0
     doc = fitz.open(pdf_path)
@@ -38,6 +40,7 @@ def extract_titles(pdf_path):
     doc.close()
     return titles
 
+# 提取小节标题
 def extract_section_titles(pdf_path):
     doc = fitz.open(pdf_path)
     section_titles = []
@@ -68,6 +71,7 @@ def extract_section_titles(pdf_path):
     doc.close()
     return list(set(section_titles))
 
+# 从全文中抽取关键词和摘要
 def extract_keywords_and_abstract(text):
     lines = text.lower().split("\n")
     keywords = []
@@ -76,17 +80,17 @@ def extract_keywords_and_abstract(text):
         if "keywords" in line:
             keywords = line.replace("keywords", "").replace(":", "").strip().split(",")
         if "abstract" in line:
-            abstract = "\n".join(lines[i+1:i+5])  # 抽4行作为摘要（可优化）
+            abstract = "\n".join(lines[i+1:i+5])  
             break
     return keywords, abstract
 
+# 提取段落
 def extract_paragraphs(text):
-    # 按两个换行符分段，简单粗暴版
     paragraphs = [p.strip() for p in text.split("\n\n") if len(p.strip()) > 30]
     return paragraphs
 
 if __name__ == "__main__":
-    pdf_path = "pdf-ocr-dl/data/raw_pdfs/sample2.pdf"  
+    pdf_path = "pdf-ocr-dl/data/raw_pdfs/paper_sample_en.pdf"  
     text = extract_text_from_pdf(pdf_path)
     
     titles = extract_titles(pdf_path)
@@ -94,15 +98,15 @@ if __name__ == "__main__":
     keywords, abstract = extract_keywords_and_abstract(text)
     paragraphs = extract_paragraphs(text)
 
-    print("\n🎯 Title: ")
+    print("\nTitle: ")
     for t in titles:
         print(" -", t)
 
-    print("\n🧩 Section Titles: ")
+    print("\nSection Titles: ")
     for s in section_titles:
         print(" -", s)
 
-    print("\n🔍 Keywords:", keywords)
-    print("\n📑 Abstract:\n", abstract)
-    print("\n🧾 First Paragraph:\n", paragraphs[0])
+    print("\nKeywords:", keywords)
+    print("\nAbstract:\n", abstract)
+    print("\nFirst Paragraph:\n", paragraphs[0])
 

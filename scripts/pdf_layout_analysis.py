@@ -1,7 +1,8 @@
+import os
+import cv2
 import layoutparser as lp
 from pdf2image import convert_from_path
-from PIL import Image, ImageDraw, ImageFont
-import os
+
 
 def analyze_layout(pdf_path):
     pass
