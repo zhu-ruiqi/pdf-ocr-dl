@@ -1,6 +1,6 @@
-path: pdf-ocr-dl/data/yolo_table_dataset
-train: images/train
-val: images/val
+train: ../data/yolo_table_dataset/images/train
+val: ../data/yolo_table_dataset/images/val
 
-names:
-  0: table
+nc: 1
+names: ['table']
+
