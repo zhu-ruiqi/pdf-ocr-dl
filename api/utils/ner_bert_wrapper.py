@@ -1,3 +1,4 @@
+from api.utils import path_manager as paths
 # api/utils/ner_bert_wrapper.py
 
 import subprocess

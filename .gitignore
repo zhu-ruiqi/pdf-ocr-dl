@@ -177,9 +177,9 @@ cython_debug/
 
 # Output folders
 /data/outputs/
+/data/uploads/
 
 /yolov5/
-/data/outputs/
 *.spacy
 ner_spacy/model/
 
@@ -187,5 +187,3 @@ ner_spacy/model/
 ner_bert/model/
 ner_spacy/model/
 
-/api/uploads
-/temp/

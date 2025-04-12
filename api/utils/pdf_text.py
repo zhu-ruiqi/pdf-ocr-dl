@@ -1,3 +1,4 @@
+from api.utils import path_manager as paths
 import fitz  # PyMuPDF
 
 # 提取整个PDF文档的纯文本内容，并在每页之间添加页码标识。

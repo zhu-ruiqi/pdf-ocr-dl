@@ -1,8 +1,9 @@
+from api.utils import path_manager as paths
 import os
 from paddleocr import PPStructure, save_structure_res
 import cv2
 
-def analyze_pdf_layout(image_path: str, output_folder: str = "./output"):
+def analyze_pdf_layout(image_path: str, output_folder: str = os.path.join(paths.OUTPUT_DIR, "layout")):
     """
     Run layout analysis on a single image (converted from PDF page).
 

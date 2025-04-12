@@ -1,3 +1,4 @@
+from api.utils import path_manager as paths
 import os
 import torch
 from torchvision import models, transforms

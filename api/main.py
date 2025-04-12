@@ -1,35 +1,3 @@
-# from fastapi import FastAPI, File, UploadFile
-# from fastapi.responses import JSONResponse
-
-# import shutil
-# import os
-
-# from utils.pdf_text import extract_text_from_pdf
-
-# app = FastAPI()
-
-# # UPLOAD_DIR = "api/uploads"
-# project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-# UPLOAD_DIR = os.path.join(project_root, "api", "uploads")
-# os.makedirs(UPLOAD_DIR, exist_ok=True)
-
-# @app.post("/upload-pdf/")
-# async def upload_pdf(file: UploadFile = File(...)):
-#     # Save uploaded PDF
-#     file_path = os.path.join(UPLOAD_DIR, file.filename)
-#     with open(file_path, "wb") as buffer:
-#         shutil.copyfileobj(file.file, buffer)
-
-#     # Call your text extraction function
-#     text = extract_text_from_pdf(file_path)
-
-#     return JSONResponse({
-#         "filename": file.filename,
-#         "text": text[:1000]  # 只返回前1000字符预览
-#     })
-
-
-# python env pdf-ocr-dl
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
 import os, shutil
@@ -51,7 +19,7 @@ from api.utils import path_manager as paths
 # 分类器一般不上传 PDF，所以暂时不放进接口
 
 app = FastAPI()
-UPLOAD_DIR = "api/uploads"
+UPLOAD_DIR = "pdf-ocr-dl/data/uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 # 工具函数：保存上传文件

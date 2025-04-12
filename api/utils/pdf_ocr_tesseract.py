@@ -1,3 +1,4 @@
+from api.utils import path_manager as paths
 import pytesseract
 from pdf2image import convert_from_path
 from PIL import Image

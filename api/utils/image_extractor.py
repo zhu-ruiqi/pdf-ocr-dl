@@ -1,3 +1,4 @@
+from api.utils import path_manager as paths
 import fitz  # PyMuPDF
 import os
 
