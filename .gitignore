@@ -188,3 +188,4 @@ ner_bert/model/
 ner_spacy/model/
 
 /api/uploads
+/temp/
