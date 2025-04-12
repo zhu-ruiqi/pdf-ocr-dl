@@ -1,7 +1,9 @@
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
+
 import shutil
 import os
+
 from utils.pdf_text import extract_text_from_pdf
 
 app = FastAPI()

@@ -186,3 +186,5 @@ ner_spacy/model/
 # Ignore model checkpoints
 ner_bert/model/
 ner_spacy/model/
+
+/api/uploads

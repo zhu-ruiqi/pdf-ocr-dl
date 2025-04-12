@@ -3,7 +3,7 @@ import subprocess
 
 def train_yolo_table_detector(
     weights="yolov5s.pt",
-    epochs=100,
+    epochs=1,
     batch_size=16,
     img_size=640,
     project="runs/train",
