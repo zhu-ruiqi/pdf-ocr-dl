@@ -16,9 +16,24 @@ from fastapi import UploadFile, File, Form
 from fastapi.responses import JSONResponse
 from api.utils import path_manager as paths
 
-# 分类器一般不上传 PDF，所以暂时不放进接口
+from fastapi.middleware.cors import CORSMiddleware
+from api.utils.check_type import classify_pdf_type
 
 app = FastAPI()
+
+origins = [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,            # 允许的来源
+    allow_credentials=True,
+    allow_methods=["*"],              # 允许所有方法（POST、GET 等）
+    allow_headers=["*"],              # 允许所有请求头
+)
+
 UPLOAD_DIR = "pdf-ocr-dl/data/uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
@@ -28,6 +43,14 @@ def save_upload_file(file: UploadFile) -> str:
     with open(file_path, "wb") as buffer:
         shutil.copyfileobj(file.file, buffer)
     return file_path
+
+
+@app.post("/pdf/check-type")
+async def check_pdf_type(file: UploadFile = File(...)):
+    content = await file.read()
+    pdf_type = classify_pdf_type(content)
+    return JSONResponse({"filename": file.filename, "type": pdf_type})
+
 
 @app.post("/text/extract")
 async def api_extract_text(file: UploadFile = File(...)):
